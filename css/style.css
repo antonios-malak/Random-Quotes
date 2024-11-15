@@ -1,0 +1,20 @@
+.quote{
+    text-align: center;
+}
+h1{
+    font-size: 80px;
+    font-weight: bolder;
+}
+p{
+    font-size: 36px;
+}
+#btn{
+    width:200px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+    transition: .3s;
+}
+#btn:hover{
+    background-color: green;
+}
